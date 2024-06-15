@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Bsc cs
 - 📫 Contact no +917588939455
 -    Email: krushnavetal121@gmail.com
--                       
+                    
   
 
 <!---
