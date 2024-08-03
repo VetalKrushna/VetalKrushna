@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *DSA | C++ | JS | Python*
 
-- 💬 Ask me about *C | SQL | Plpgsql | JS | HTML | CSS*
+- 💬 Ask me about *C | SQL | Plpgsql | C++ | HTML | CSS*
 
 - 📫 How to reach me *krushnavetal121@gmail.com*
 
