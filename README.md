@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vetalkrushna&label=Profile%20views&color=0e75b6&style=flat" alt="vetalkrushna" /> </p>
 
-- 🌱 I’m currently learning *DSA | C++ | JS | Python*
+- 🌱 I’m currently learning *DSA | Java | Python*
 
 - 💬 Ask me about *C | SQL | Plpgsql | C++ | HTML | CSS*
 
