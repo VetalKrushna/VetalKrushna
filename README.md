@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vetalkrushna&label=Profile%20views&color=0e75b6&style=flat" alt="vetalkrushna" /> </p>
 
-- 🌱 I’m currently learning *DSA | Java | Python*
+- 🌱 I’m currently learning *Java | php*
 
-- 💬 Ask me about *C | SQL | Plpgsql | C++ | HTML | CSS | Java*
+- 💬 Ask me about *C | SQL | Plpgsql | C++ | HTML | CSS | Java | php*
 
 - 📫 How to reach me *krushnavetal121@gmail.com*
 
